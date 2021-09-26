@@ -1,4 +1,5 @@
 # Milan's Page
+## intro about me
 Hi! I'm **Milan Ganai**, and I'm majoring in Computer Science at UCSD.
 *I enjoy:*
 - Traveling
@@ -16,6 +17,8 @@ Here's a pic of my beagle, Dunkin.
 
 in that order.
 
+## programming intro
+
 It was once said by Linus Torvalds:
 > Talk is cheap, show me the code.
 
@@ -25,4 +28,9 @@ for (int i = 0; i < 100; i++) {
     System.out.println("Random Code Test.");
 }
 ```
+
+As random trivia, [here](http://info.cern.ch/hypertext/WWW/TheProject.html) is the web page address.
+
+Also if you haven't seen it, [here](intro-about-me) is the previous section on an intro about me.
+
 
