@@ -17,7 +17,7 @@ Here's a pic of my beagle, Dunkin.
 
 in that order.
 
-### programming intro
+### programming stuff
 
 It was once said by Linus Torvalds:
 > Talk is cheap, show me the code.
@@ -33,6 +33,4 @@ As random trivia, [here](http://info.cern.ch/hypertext/WWW/TheProject.html) is t
 
 Also if you haven't seen it, [here](#intro-about-me) is the previous section on an intro about me.
 
-
-
-
+Even more, [here](./screenshots/ScreenShotVSCode.png) is an image of terminal commands.
