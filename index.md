@@ -31,6 +31,6 @@ for (int i = 0; i < 100; i++) {
 
 As random trivia, [here](http://info.cern.ch/hypertext/WWW/TheProject.html) is the web page address.
 
-Also if you haven't seen it, [here](intro-about-me) is the previous section on an intro about me.
+Also if you haven't seen it, [here](#intro-about-me) is the previous section on an intro about me.
 
 
