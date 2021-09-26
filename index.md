@@ -1,5 +1,5 @@
 # Milan's Page
-### intro about me
+## intro about me
 ### a bit about me
 Hi! I'm **Milan Ganai**, and I'm majoring in Computer Science at UCSD.
 
@@ -27,7 +27,7 @@ And his daily task list includes:
 - [X] `dunkin.get_belly_rubs()`
 - [ ] `dunkin.nap()`
 
-### programming stuff
+## programming stuff
 
 It was once said by Linus Torvalds:
 > Talk is cheap. Show me the code.
