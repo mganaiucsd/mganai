@@ -32,7 +32,7 @@ It was once said by Linus Torvalds:
 
 So here's the code:
 ```
-for i in range(100):
+for _ in range(100):
     print("THE CODE")
 ```
 
