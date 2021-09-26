@@ -28,12 +28,12 @@ And his daily task list includes:
 ### programming stuff
 
 It was once said by Linus Torvalds:
-> Talk is cheap, show me the code.
+> Talk is cheap. Show me the code.
 
-So here's some code testing:
+So here's the code:
 ```
 for i in range(100):
-    print("Random code testing")
+    print("THE CODE")
 ```
 
 As random trivia, [here](http://info.cern.ch/hypertext/WWW/TheProject.html) is the web page address.
