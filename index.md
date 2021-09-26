@@ -11,6 +11,7 @@ Here's a pic of my beagle, Dunkin.
 Dunkin loves:
 1. Going on long walks 
 2. Snoring loudly
-3. Wiggling in excitement \
+3. Wiggling in excitement
+
 in that order.
 
