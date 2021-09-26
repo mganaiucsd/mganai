@@ -17,10 +17,10 @@ Here's a pic of my beagle, Dunkin.
 
 in that order.
 
-And his daily ~~coding~~ task list is:
-- [X] wildy running at the sight of grass
-- [X] getting belly rubs
-- [ ] sleep
+And his daily task list includes:
+- [X] `Dunkin.run_on_grass(wildy=True)`
+- [X] `Dunkin.get_belly_rubs()`
+- [ ] `Dunkin.nap()`
 
 ### programming stuff
 
@@ -29,9 +29,8 @@ It was once said by Linus Torvalds:
 
 So here's some code testing:
 ```
-for (int i = 0; i < 100; i++) {
-    System.out.println("Random Code Test.");
-}
+for i in range(100):
+    print("Random code testing")
 ```
 
 As random trivia, [here](http://info.cern.ch/hypertext/WWW/TheProject.html) is the web page address.
