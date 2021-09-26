@@ -1,5 +1,6 @@
 # Milan's Page
 ### intro about me
+### a bit about me
 Hi! I'm **Milan Ganai**, and I'm majoring in Computer Science at UCSD.
 
 *I enjoy:*
@@ -9,6 +10,7 @@ Hi! I'm **Milan Ganai**, and I'm majoring in Computer Science at UCSD.
 
 <img src="https://user-images.githubusercontent.com/78571306/134795060-58fc46b6-0da6-4efc-83ed-ac5f3e947a10.jpg" width="320" height="240">
 
+### a bit about Dunkin
 And here's my beagle, Dunkin.
 
 <img src="https://user-images.githubusercontent.com/78571306/134789347-2a27f59c-7b0e-43ad-b37b-10777da02e5d.jpg" width="204" height="264">
