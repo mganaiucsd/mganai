@@ -36,7 +36,7 @@ for _ in range(100):
     print("THE CODE")
 ```
 
-As random trivia, [here](http://info.cern.ch/hypertext/WWW/TheProject.html) is the web page address.
+As random trivia, [here](http://info.cern.ch/hypertext/WWW/TheProject.html) is an external link to the *first* web page address.
 
 Also if you haven't seen it, [here](#intro-about-me) is the previous section on an intro about me.
 
