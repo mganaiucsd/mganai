@@ -4,7 +4,7 @@ Hi! I'm **Milan Ganai**, and I'm majoring in Computer Science at UCSD.
 
 *I enjoy:*
 - Traveling
-- Trying new food
+- Trying new foods
 - Going to the beach
 
 <img src="https://user-images.githubusercontent.com/78571306/134795060-58fc46b6-0da6-4efc-83ed-ac5f3e947a10.jpg" width="320" height="240">
