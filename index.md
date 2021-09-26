@@ -7,8 +7,6 @@ Hi! I'm **Milan Ganai**, and I'm majoring in Computer Science at UCSD.
 - Trying new food
 - Going to the beach
 
-<--! ![MilanPic](https://user-images.githubusercontent.com/78571306/134795060-58fc46b6-0da6-4efc-83ed-ac5f3e947a10.jpg)
--->
 <img src="https://user-images.githubusercontent.com/78571306/134795060-58fc46b6-0da6-4efc-83ed-ac5f3e947a10.jpg" width="320" height="240">
 
 And here's my beagle, Dunkin.
