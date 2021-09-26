@@ -22,7 +22,7 @@ And here's my beagle, Dunkin.
 
 in that order.
 
-And his daily task list includes:
+And his daily python ~~coding~~ task list includes:
 - [X] `dunkin.run_on_grass(wildy=True)`
 - [X] `dunkin.get_belly_rubs()`
 - [ ] `dunkin.nap()`
@@ -32,10 +32,11 @@ And his daily task list includes:
 It was once said by Linus Torvalds:
 > Talk is cheap. Show me the code.
 
-So here's the code:
+So here's the code in java:
 ```
-for _ in range(100):
-    print("THE CODE")
+for (int i = 0; i < 100; i++) {
+    System.out.println("THE CODE");
+}
 ```
 
 As random trivia, [here](http://info.cern.ch/hypertext/WWW/TheProject.html) is an external link to the *first* web page address.
