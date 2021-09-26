@@ -1,5 +1,5 @@
 # Milan's Page
-## intro about me
+### intro about me
 Hi! I'm **Milan Ganai**, and I'm majoring in Computer Science at UCSD.
 *I enjoy:*
 - Traveling
@@ -17,7 +17,7 @@ Here's a pic of my beagle, Dunkin.
 
 in that order.
 
-## programming intro
+### programming intro
 
 It was once said by Linus Torvalds:
 > Talk is cheap, show me the code.
