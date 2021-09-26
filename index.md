@@ -33,4 +33,4 @@ As random trivia, [here](http://info.cern.ch/hypertext/WWW/TheProject.html) is t
 
 Also if you haven't seen it, [here](#intro-about-me) is the previous section on an intro about me.
 
-Even more, [here](./screenshots/ScreenShotVSCode.png) is an image of terminal commands.
+Even more, [here](./screenshots/ScreenShotCommandLine.png) is an image of terminal commands.
