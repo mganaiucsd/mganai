@@ -1,6 +1,7 @@
 # Milan's Page
 ### intro about me
 Hi! I'm **Milan Ganai**, and I'm majoring in Computer Science at UCSD.
+
 *I enjoy:*
 - Traveling
 - Trying new food
