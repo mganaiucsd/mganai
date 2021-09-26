@@ -6,11 +6,11 @@ I enjoy:
 - Going to the beach
 
 Here's a pic of my beagle, Dunkin.
-[DunkinIMAGE.pdf](https://github.com/mganaiucsd/mganai/files/7230518/DunkinIMAGE.pdf)
+![DunkinIMAGE](https://user-images.githubusercontent.com/78571306/134789347-2a27f59c-7b0e-43ad-b37b-10777da02e5d.jpg)
+
 Dunkin loves:
 1. Going on long walks 
-2. Running wildly on grass
-3. Snoring loudly
-4. Wiggling in excitement
+2. Snoring loudly
+3. Wiggling in excitement
 in that order.
 
