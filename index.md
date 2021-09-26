@@ -6,7 +6,7 @@ I enjoy:
 - Going to the beach
 
 Here's a pic of my beagle, Dunkin.
-![DunkinIMAGE](https://user-images.githubusercontent.com/78571306/134789347-2a27f59c-7b0e-43ad-b37b-10777da02e5d.jpg | width=100)
+![DunkinIMAGE](https://user-images.githubusercontent.com/78571306/134789347-2a27f59c-7b0e-43ad-b37b-10777da02e5d.jpg | width="100")
 
 Dunkin loves:
 1. Going on long walks 
