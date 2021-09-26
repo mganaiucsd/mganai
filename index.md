@@ -18,9 +18,9 @@ Here's a pic of my beagle, Dunkin.
 in that order.
 
 And his daily task list includes:
-- [X] `Dunkin.run_on_grass(wildy=True)`
-- [X] `Dunkin.get_belly_rubs()`
-- [ ] `Dunkin.nap()`
+- [X] `dunkin.run_on_grass(wildy=True)`
+- [X] `dunkin.get_belly_rubs()`
+- [ ] `dunkin.nap()`
 
 ### programming stuff
 
